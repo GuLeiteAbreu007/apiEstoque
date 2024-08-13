@@ -1,0 +1,2 @@
+GET http://localhost:8083/api/produtos/buscarPorNomeEPreco/%25frango%25/500.50
+Content-Type: application/json

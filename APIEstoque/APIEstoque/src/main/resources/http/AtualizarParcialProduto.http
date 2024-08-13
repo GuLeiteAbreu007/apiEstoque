@@ -1,0 +1,8 @@
+PATCH http://localhost:8083/api/produtos/atualizarParcial/7
+Content-Type: application/json
+
+{
+  "nome": "",
+  "descricao": "",
+  "preco": -1
+}

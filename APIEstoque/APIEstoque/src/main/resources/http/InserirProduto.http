@@ -1,0 +1,9 @@
+POST http://localhost:8083/api/produtos/inserir
+Content-Type: application/json
+
+{
+  "nome": "",
+  "descricao": "Asa de Frangos Selecionados",
+  "preco": -1,
+  "quantidadeEstoque": 100
+}

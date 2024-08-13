@@ -1,0 +1,9 @@
+PUT http://localhost:8083/api/produtos/atualizar/5
+Content-Type: application/json
+
+{
+  "nome": "",
+  "descricao": "",
+  "preco": 0,
+  "quantidadeEstoque": 0
+}
